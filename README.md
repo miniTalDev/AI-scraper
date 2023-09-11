@@ -22,7 +22,7 @@ Before running the AI Web Scraper, ensure you have the following prerequisites i
 2. Navigate to the project directory:
 
    ```shell
-   cd gpt-automated-web-scraper
+   cd AI-scraper
    ```
 
 3. Install the required Python packages:
