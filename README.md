@@ -16,7 +16,7 @@ Before running the AI Web Scraper, ensure you have the following prerequisites i
 1. Clone the project repository:
 
    ```shell
-   git clone https://github.com/dirkjbreeuwer/gpt-automated-web-scraper
+   git clone https://github.com/miniTalDev/AI-scraper
    ```
 
 2. Navigate to the project directory:
